@@ -17,7 +17,7 @@ header {
     grid-area: hd;
     background-color: white;
     text-align: center;
-    font-size: 80px;
+    font-size: 70px;
     color: black;
 }
 
@@ -31,7 +31,7 @@ aside {
     background-color: white;
     color: black;
     font-size: 20px;
-    
+    display: block;
     
 }
 
@@ -58,6 +58,19 @@ footer {
 
 footer a {
     color: black;
-  
+    
 }
 
+a {
+    color: black;
+
+}
+
+aside p a {
+    display:block
+}
+
+img {
+    width: 20cm;
+   
+}
