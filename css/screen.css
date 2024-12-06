@@ -8,7 +8,8 @@ body {
     'hd hd hd'
     'as mn mn'
     'ft ft ft';
-    grid-template-rows: 10% auto 5% 5%;;
+    grid-template-rows: 10% auto 5% ;;
+    grid-template-columns: 31% ;
 }
 
 
@@ -73,4 +74,9 @@ aside p a {
 img {
     width: 20cm;
    
+}
+
+img {
+    width: 60%;
+    height: 100%;
 }

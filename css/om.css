@@ -18,7 +18,7 @@ header {
     grid-area: hd;
     background-color: white;
     text-align: center;
-    font-size: 50px;
+    font-size: 70px;
     color: black;
 }
 
@@ -60,19 +60,6 @@ footer {
 footer a {
     color: black;
     
-}
-
-a {
-    color: black;
-}
-
-aside a {
-    display:block
-}
-
-img {
-    width: 20cm;
-   
 }
 
 img {
