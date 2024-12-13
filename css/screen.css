@@ -18,7 +18,7 @@ header {
     grid-area: hd;
     background-color: white;
     text-align: center;
-    font-size: 70px;
+    font-size: 80px;
     color: black;
 }
 
@@ -31,7 +31,7 @@ aside {
     grid-area: as;
     background-color: white;
     color: black;
-    font-size: 20px;
+    font-size: 50px;
     display: block;
     
 }
